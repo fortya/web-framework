@@ -58,8 +58,8 @@
         "DeprecatedFunctionService"
       ],
       "selectors": {
-        "components": ["ht-"],
-        "behaviors": ["ht-"],
+        "components": ["syc-"],
+        "behaviors": ["syc-"],
         "guides": ["guide-"]
       }
     },

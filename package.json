@@ -8,16 +8,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/wslogstics/web-framework.git"
+    "url": "git://github.com/hightail/wilson.git"
   },
   "keywords": [
+    "wilson",
     "framework",
     "angular",
     "node",
     "application",
     "awesome"
   ],
+  "author": "Justin Fiedler, Hunter Novak, Dan Nguyen",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hightail/wilson/issues"
+  },
+  "homepage": "https://github.com/hightail/wilson",
   "dependencies": {
     "async": "^0.9.0",
     "dependable": "^0.2.5",
