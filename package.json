@@ -1,5 +1,5 @@
 {
-  "name": "wslogistics web framework",
+  "name": "web_framework",
   "version": "0.0.1",
   "description": "Modified Wilson framework, Web Framework for wslogistics.",
   "main": "lib/server/wilson.js",
