@@ -1,14 +1,14 @@
 {
-  "name": "wilson",
+  "name": "wslogistics web framework",
   "version": "0.0.1",
-  "description": "An application framework based on Nodejs and Angularjs designed to bring together all of the ingredients needed to create structured, dynamic, large-scale web apps.",
+  "description": "Modified Wilson framework, Web Framework for wslogistics.",
   "main": "lib/server/wilson.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hightail/wilson.git"
+    "url": "https://wslogistics.io"
   },
   "keywords": [
     "wilson",
@@ -18,12 +18,12 @@
     "application",
     "awesome"
   ],
-  "author": "Justin Fiedler, Hunter Novak, Dan Nguyen",
+  "author": "Chris Wheeler, Hunter Novak",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hightail/wilson/issues"
+    "url": "https://github.com/wslogistics/web-framework/issues"
   },
-  "homepage": "https://github.com/hightail/wilson",
+  "homepage": "https://github.com/wslogistics/web-framework",
   "dependencies": {
     "async": "^0.9.0",
     "dependable": "^0.2.5",
